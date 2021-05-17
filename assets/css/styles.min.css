@@ -88,6 +88,58 @@
   opacity: 1;
 }
 
+@media (min-width: 576px) {
+  .detail_page {
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  element.style {
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  element.style {
+    width: 100%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .detail_page {
+    width: 60%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .detail_page {
+    width: 60%;
+  }
+}
+
+.detail_page {
+  background: #f4e4e4;
+  padding-bottom: 77px;
+}
+
+@media (min-width: 992px) {
+  .detail_page {
+    width: 60%;
+  }
+}
+
+.homepage_card {
+  position: relative;
+  transform: initial;
+  perspective: initial;
+  filter: initial;
+}
+
+.homepage_container:hover {
+  box-shadow: 0px 0px 17px 1px rgb(217,217,217);
+}
+
 element.style: hover {
   a: #00A0C6;
   text-decoration: none;
